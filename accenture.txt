@@ -1,0 +1,162 @@
+Accenture common Applications and ms Office = prepinsta , tallentbattle
+syllabus
+->Ms office(word,powerpoint,Excel,outlook)
+->browser ' fundamentals
+->shortcut keys
+->command promptt
+->working flow of keys
+
+Accenture Network security syllabus
+->basics of networking
+->network security
+->encryption standards and algorithms
+->network security devices 
+->attack types
+->firwalls
+
+
+Accenture cloud syllabus:
+->fundamentals of cloud computing
+->client server architecture
+->cloud data centers
+->cloud service providers
+->cloud service platform
+
+Accenture Pseudocode syllabus:-  = prepinsta,tallentbattle
+-> programming fundamentals
+->looping
+->Recursion
+->function
+->Bitwise operators
+->increment and decrement operators
+-> conditional statements
+-> basics of data structures
+
+
+
+communication round
+->sample questions
+Reading
+repeating
+Questions and answers
+sentence builds
+story retelling
+open end questions
+
+what skill you want to learn-dancing,singin,coding
+how do you manage your busy time
+tell me about your great momemnt
+favourate food
+what kind of work you interseted
+goal
+weeekend time
+how do you sepnd time with friends
+recent movie
+what did you learn from book
+talk about your self
+
+MS WORD SHORTCUT keys:-
+ctr1+n newdocument
+ctrl+o open document
+ctrl+s save document
+ctrl+p print document
+f12 save as 
+ctrl+w close document
+ctr1+z undo
+ctrl+y redo
+ctrl+right arrow = move one word to the right
+ctrl+left arrow= move one word to the left
+ctr1+1 single line spacing
+ctrl +2 = double line spacing
+
+Ms Excel shortcuts keys:-
+ctr1+n newdocument
+ctrl+o open document
+ctrl+s save document
+ctrl+p print document
+f12 save as 
+ctrl+w close document
+ctr1+z undo
+ctrl+y redo
+ctr1 +=:subscript
+ctrl+shift+ =:superscript
+
+MS powerpoint shortcut keys:
+ctr1+n newdocument
+ctrl+o open document
+ctrl+s save document
+ctrl+p print document/preview
+f12 save as 
+ctrl+w close document
+ctr1+z undo
+ctrl+y redo
+f5:start slide show from begining
+Esc : end slide show
+
+MS outlook shortcut keys:-
+ctr+n:-new email ,appointment,contact,or task
+ctrl+o = open selected item
+ctrl+s save
+ctrl+p print
+ctr1+z undo
+ctrl+y redo
+
+
+
+1.starting with microsoft office 2003,photo editor was renamed to = picture manager
+2.which of the folloeing functions will help to find the no.of working days b/w two calendar dates = Bussiness days
+3.which of the following groups is not present under the insert tab in Ms-Excel = sort and filter
+4.using which of the following sites users can interact with each other through messages = snap,gmail,facebook
+5.A complier means:-a program which translates source program into object program
+6.which command of the following commands will take you two steps backword from any pe=articular directory = cd../..
+7.which key is to be held down to select the word or phrase to be selected in MS word = shift
+8.if  by an accident a mail is deleted then which of the following folders will save the mail = trash
+9.what is the difference b/w a tojan and a virus = a virus replicates itself while a trojan doesnot 
+10.while using formulas in excel the notation "B8:B10" indicates = All cells from B8 to B10
+11.in currently open powerpoint presentation a new slide is inserted using = ctrl+M 
+12.in order to increase the font size one value the key we used is = ctrl + shif +>
+13.which of the following software Applicationsallows a user to view a webpage = internet Explorer
+14.which of the following functions is used to create a drop-down box in selected cells = Data>Data validation
+15.in microsoft excel what function would you used to find the average of a range of cells = AVERAGE 
+16.what is the extension of a powerpoint file saved in microsoft oofice 2016 = .pptx
+17.which shoetcut key is used to create a new workbook in excel = ctrl+network
+18.which key combination is used to open the "find and replace" dialog box in microsoft word = ctrl + h
+19.switching to the previous window from current window can be done by shortcut keys which are = alt + shift + tab
+20.imp in powerpoint which view is used to show just the text content of the slides = outline view
+21.what is the default file extension for a microsoft word document = .docx
+22. which feature in microsoft excel allows you to visually represnet data in a graphical format = charts
+23.which of the following is not a video format
+ avi,mov ,mp4 jpeg/\
+24.which of the following is not an image format = .bmp,.png,.jpg,.wmv/\
+25.which command is used to reboot teh system = ctrl + alt + del
+26.the shortcut key to display windows help is = windows logo + f1
+27.  the numeric data entered in the worksheet is alligned by default to = right
+28 url = http://www.uni.edu.tell is a eductional institute
+29. add ,sub,mul,and logical operators are performed on the = ALU
+30.which is used to navigate from one slide to another in same persentation or a slide in another presentation in powerpoint = Hyperlink
+31.a feature of ms office that saves the document automatically aftter a certain interval = auto save 
+32.what was the html editor that was part of microsoft officce until 2003 = frontpage
+33. which key combination is used to close a tab on a browser = ctrl + w 
+34. which feature is used to make a selected sentence all capital letters in ms word =  chage case
+35. what is the extension of the microsoft excel = .PST 
+36. how can you say the email that you have read from the email that you have not read = the unread mail will be in bold
+37. how do you request a receipt to show an email has been read = 
+    click the potions tab from the ,essage window and choose request receipt
+38.which shoetcut key is used to change the case of the selected text = shift + f3
+39. spelling grammer and theasures are found on which tab = review tab
+40.shortcut key used to check spell in ms word is = f7
+41.the special efects in a powerpoint presentation used to introduce slides ore =  transitions
+42.which of the following is not part of a spreadsheet = column number
+43.how do you select an entire column = click the column heading letters
+45 how many columns can you insert into a word document atmost = 63
+46 to allign center = ctrl +E
+
+
+Network and cloud :-
+1. the best suited for small Bussiness in cloud are = pay as you go
+2. the sequence of the letters is rearranged by = Transposition ciphers
+3. not the benefit of paas is = management of middleware
+4.DES - is a bit oriented cipher
+5. whcih software prevents the external access to a system = firewall
+6. Antivirus scanning devices fall under which type of n/w security devices = active devices
+
