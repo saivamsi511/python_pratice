@@ -1,0 +1,19 @@
+# arr=[1,-1,1,1,-1]
+# coun=0
+# for i in arr:
+#     if i==1:
+#         print("move left <-")
+#     elif i==-1:
+#         print("move right ->")
+#     else:
+#         print("inavalid input")
+
+# n=int(input("Enter number"))
+# arr = list(map(int,input().split()))
+# count=0
+# current_sum = 0
+# for move in arr:
+#     current_sum +=move
+#     if current_sum == 0:
+#         count+=1
+# print(count)
